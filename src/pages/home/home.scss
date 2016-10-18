@@ -1,3 +1,22 @@
 page-home {
 
 }
+
+.row {
+  padding: 0 !important;
+  text-align: center;
+}
+
+.row .col {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  margin: 0 4%;
+}
+
+.list {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+}
